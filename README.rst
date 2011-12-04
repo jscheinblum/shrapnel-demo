@@ -24,3 +24,12 @@ To run the virtual machine, you just need to run these commands::
 
     vagrant up
     vagrant ssh
+
+Once you're in the shell, you should have a working python installation with Shrapnel installed.
+The VM uses the `requirements.txt` file to install nesessary packages.
+
+
+TODO
+----
+
+Currently, Shrapnel doesn't install via pip.
