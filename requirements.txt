@@ -1,0 +1,6 @@
+
+# aplib
+git+https://github.com/ironport/aplib.git
+
+# Shrapnel
+git+https://github.com/ironport/shrapnel.git
