@@ -1,6 +1,6 @@
-[submodule "aplib"]
-  path = vendor/aplib
-  url = git://github.com/ironport/aplib.git
-[submodule "shrapnel"]
-  path = vendor/shrapnel
-  url = git://github.com/ironport/shrapnel.git
+[submodule "vendor/aplib"]
+	path = vendor/aplib
+	url = git://github.com/ironport/aplib.git
+[submodule "vendor/shrapnel"]
+	path = vendor/shrapnel
+	url = git://github.com/ironport/shrapnel.git
