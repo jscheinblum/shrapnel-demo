@@ -1,0 +1,5 @@
+Shrapnel demo
+-------------
+
+This project builds a sample virtual-machine running the Shrapnel (https://github.com/ironport/shrapnel)
+library.
